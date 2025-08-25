@@ -1,0 +1,514 @@
+WARNING 2025-08-11 17:17:57,507 views 21264 3448 Usuario testuser intentó procesar archivo no-PDF: test.txt
+WARNING 2025-08-11 17:17:57,802 views 21264 3448 Usuario testuser intentó procesar sin archivo
+INFO 2025-08-11 17:26:15,660 views 18164 8968 Usuario user1 consultó lista de documentos
+INFO 2025-08-11 17:26:26,872 views 10872 3592 Usuario user1 realizó búsqueda global: 'documento'
+INFO 2025-08-11 17:27:03,348 views 2280 18284 Usuario user1 realizó búsqueda global: 'documento'
+INFO 2025-08-11 17:27:12,357 views 16804 22896 Usuario user1 consultó estadísticas
+INFO 2025-08-11 17:27:20,301 views 14132 14004 Usuario user1 realizó búsqueda global: 'documento'
+INFO 2025-08-11 17:27:20,896 views 14132 14004 Usuario user1 realizó búsqueda personal: 'contenido'
+INFO 2025-08-11 17:27:22,056 views 14132 14004 Usuario user1 accedió al documento ID: 1 (documento1.pdf)
+INFO 2025-08-11 17:27:23,215 views 14132 14004 Usuario user1 eliminó documento ID: 1 (documento1.pdf)
+INFO 2025-08-11 17:27:24,376 views 14132 14004 Usuario user1 consultó estadísticas
+INFO 2025-08-11 17:27:24,952 views 14132 14004 Usuario user1 consultó lista de documentos
+INFO 2025-08-11 17:27:42,116 views 14076 20928 Usuario user1 realizó búsqueda global: 'documento'
+INFO 2025-08-11 17:27:42,707 views 14076 20928 Usuario user1 realizó búsqueda personal: 'contenido'
+INFO 2025-08-11 17:27:43,901 views 14076 20928 Usuario user1 accedió al documento ID: 1 (documento1.pdf)
+INFO 2025-08-11 17:27:45,084 views 14076 20928 Usuario user1 eliminó documento ID: 1 (documento1.pdf)
+INFO 2025-08-11 17:27:46,261 views 14076 20928 Usuario user1 consultó estadísticas
+INFO 2025-08-11 17:27:46,841 views 14076 20928 Usuario user1 consultó lista de documentos
+WARNING 2025-08-11 17:27:49,479 views 14076 20928 Usuario testuser intentó procesar archivo no-PDF: test.txt
+WARNING 2025-08-11 17:27:49,773 views 14076 20928 Usuario testuser intentó procesar sin archivo
+INFO 2025-08-11 17:44:20,315 views 13432 17024 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 17:44:20,384 views 13432 17024 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 17:44:31,096 views 13432 17024 Usuario josma05 realizó búsqueda global: 'el prin'
+INFO 2025-08-11 17:45:33,322 views 12456 12576 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 17:45:33,339 views 12456 12576 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 17:45:50,677 views 12456 15480 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 17:45:50,696 views 12456 15480 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 17:46:24,933 views 12456 23428 Iniciando extracción para usuario josma05, archivo: ley 0009 de 1979.pdf
+ERROR 2025-08-11 17:46:25,057 views 12456 23428 Error de validación para ley 0009 de 1979.pdf: {'metodo_extraccion': [ErrorDetail(string='"PyMuPDF" is not a valid choice.', code='invalid_choice')]}
+INFO 2025-08-11 17:46:49,962 views 22716 15772 Iniciando extracción para usuario josma05, archivo: ley 0009 de 1979.pdf
+ERROR 2025-08-11 17:46:50,089 views 22716 15772 Error de validación para ley 0009 de 1979.pdf: {'metodo_extraccion': [ErrorDetail(string='"PyMuPDF" is not a valid choice.', code='invalid_choice')]}
+INFO 2025-08-11 17:49:31,771 views 8604 16388 Iniciando extracción para usuario josma05, archivo: ley 0009 de 1979.pdf
+INFO 2025-08-11 17:49:32,001 views 8604 16388 Documento guardado exitosamente - ID: 1, Usuario: josma05, Archivo: ley 0009 de 1979.pdf, Método: PyMuPDF, Tiempo: 0.216s
+INFO 2025-08-11 17:49:36,735 views 8604 16388 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 17:49:36,756 views 8604 16388 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 17:49:40,091 views 8604 16388 Usuario josma05 realizó búsqueda personal: 'ley'
+INFO 2025-08-11 17:49:44,383 views 8604 18224 Usuario josma05 accedió al documento ID: 1 (ley 0009 de 1979.pdf)
+INFO 2025-08-11 17:49:45,804 views 8604 18224 Usuario josma05 accedió al documento ID: 1 (ley 0009 de 1979.pdf)
+INFO 2025-08-11 17:49:55,685 views 8604 2224 Usuario josma05 accedió al documento ID: 1 (ley 0009 de 1979.pdf)
+INFO 2025-08-11 17:50:07,387 views 8604 20372 Usuario josma05 accedió al documento ID: 1 (ley 0009 de 1979.pdf)
+INFO 2025-08-11 17:50:16,950 views 8604 23536 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 17:50:16,964 views 8604 23536 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 17:51:18,281 views 14636 14172 Usuario josma05 realizó búsqueda personal: 'ley'
+INFO 2025-08-11 17:51:37,838 views 14636 14492 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 17:51:37,860 views 14636 14492 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 17:51:41,320 views 14636 12120 Usuario josma05 realizó búsqueda personal: 'ley'
+INFO 2025-08-11 17:51:46,279 views 14636 12120 Usuario josma05 accedió al documento ID: 1 (ley 0009 de 1979.pdf)
+INFO 2025-08-11 17:51:47,719 views 14636 12120 Usuario josma05 accedió al documento ID: 1 (ley 0009 de 1979.pdf)
+INFO 2025-08-11 17:51:56,054 views 14636 9040 Usuario josma05 accedió al documento ID: 1 (ley 0009 de 1979.pdf)
+INFO 2025-08-11 17:52:13,203 views 14636 22616 Usuario josma05 accedió al documento ID: 1 (ley 0009 de 1979.pdf)
+INFO 2025-08-11 17:52:23,068 views 14636 2420 Usuario josma05 accedió al documento ID: 1 (ley 0009 de 1979.pdf)
+INFO 2025-08-11 17:52:47,433 views 14636 4688 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 17:52:47,444 views 14636 4688 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 17:52:55,751 views 14636 8600 Iniciando extracción para usuario josma05, archivo: Django_REST-salida.pdf
+INFO 2025-08-11 17:52:56,061 views 14636 8600 Documento guardado exitosamente - ID: 2, Usuario: josma05, Archivo: Django_REST-salida.pdf, Método: PyMuPDF, Tiempo: 0.319s
+INFO 2025-08-11 17:53:11,741 views 14636 15560 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 17:53:11,755 views 14636 15560 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 17:53:17,238 views 14636 15560 Usuario josma05 realizó búsqueda personal: 'view'
+INFO 2025-08-11 17:53:21,033 views 14636 15560 Usuario josma05 accedió al documento ID: 2 (Django_REST-salida.pdf)
+INFO 2025-08-11 17:57:31,874 views 14636 18720 Iniciando extracción para usuario marian, archivo: CVF.pdf
+INFO 2025-08-11 17:57:32,152 views 14636 18720 Documento guardado exitosamente - ID: 3, Usuario: marian, Archivo: CVF.pdf, Método: PyMuPDF, Tiempo: 0.270s
+INFO 2025-08-11 17:57:38,102 views 14636 18720 Iniciando extracción para usuario marian, archivo: 1.pdf
+INFO 2025-08-11 17:57:46,342 views 14636 18720 Documento guardado exitosamente - ID: 4, Usuario: marian, Archivo: 1.pdf, Método: Tesseract OCR, Tiempo: 8.252s
+INFO 2025-08-11 17:57:50,722 views 14636 18720 Usuario marian consultó estadísticas
+INFO 2025-08-11 17:57:50,736 views 14636 18720 Usuario marian consultó estadísticas
+INFO 2025-08-11 17:58:06,751 views 14636 15944 Usuario marian realizó búsqueda global: 'el prin'
+INFO 2025-08-11 17:58:13,718 views 14636 22212 Usuario marian realizó búsqueda personal: 'el principito'
+INFO 2025-08-11 17:58:16,455 views 14636 22212 Usuario marian realizó búsqueda global: 'el principito'
+INFO 2025-08-11 17:58:17,744 views 14636 22212 Usuario marian realizó búsqueda global: 'el principito'
+INFO 2025-08-11 17:58:18,905 views 14636 22212 Usuario marian realizó búsqueda global: 'el principito'
+INFO 2025-08-11 17:58:33,967 views 14636 9856 Usuario marian realizó búsqueda global: 'view'
+INFO 2025-08-11 17:59:42,158 views 14636 14964 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 17:59:42,190 views 14636 14964 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 17:59:58,815 views 14636 15396 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 17:59:58,825 views 14636 15396 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 18:00:07,068 views 14636 9244 Usuario josma05 realizó búsqueda personal: 'princ'
+INFO 2025-08-11 18:00:18,715 views 14636 21888 Usuario josma05 accedió al documento ID: 1 (ley 0009 de 1979.pdf)
+INFO 2025-08-11 18:00:27,818 views 14636 11320 Usuario josma05 accedió al documento ID: 1 (ley 0009 de 1979.pdf)
+INFO 2025-08-11 18:01:28,356 views 14636 16232 Iniciando extracción para usuario josma05, archivo: CamScanner 1-08-25 15.37.pdf
+INFO 2025-08-11 18:01:34,464 views 14636 16232 Documento guardado exitosamente - ID: 5, Usuario: josma05, Archivo: CamScanner 1-08-25 15.37.pdf, Método: Tesseract OCR, Tiempo: 6.107s
+INFO 2025-08-11 18:01:56,827 views 14636 16232 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 18:01:56,840 views 14636 16232 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 18:02:05,308 views 14636 16232 Usuario josma05 realizó búsqueda global: 'prin'
+INFO 2025-08-11 18:02:12,682 views 14636 16232 Usuario josma05 realizó búsqueda global: 'min'
+INFO 2025-08-11 18:02:53,266 views 14636 3436 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 18:02:53,278 views 14636 3436 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 18:03:01,982 views 14636 3436 Usuario josma05 realizó búsqueda personal: 'ss'
+INFO 2025-08-11 18:05:26,369 views 14636 13324 Usuario josma05 accedió al documento ID: 5 (CamScanner 1-08-25 15.37.pdf)
+INFO 2025-08-11 18:06:53,476 views 14636 13324 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 18:06:53,499 views 14636 13324 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 18:06:56,544 views 14636 13324 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 18:06:56,577 views 14636 13324 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 18:06:56,597 views 14636 13324 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 18:08:09,784 views 14636 13324 Usuario josma05 realizó búsqueda personal: 'd'
+INFO 2025-08-11 18:08:28,184 views 14636 15256 Usuario josma05 realizó búsqueda global: 'prin'
+INFO 2025-08-11 18:08:31,369 views 14636 15256 Usuario josma05 realizó búsqueda global: 'min'
+INFO 2025-08-11 18:08:58,419 views 14636 5188 Usuario josma05 realizó búsqueda personal: 'min'
+INFO 2025-08-11 18:09:00,500 views 14636 5188 Usuario josma05 accedió al documento ID: 2 (Django_REST-salida.pdf)
+INFO 2025-08-11 18:09:17,346 views 14636 5188 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 18:09:17,665 views 14636 5188 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 18:11:08,488 views 14636 5188 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 18:11:08,507 views 14636 5188 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 18:11:08,530 views 14636 5188 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 18:12:05,282 views 14636 20388 Usuario josma05 realizó búsqueda personal: 'd'
+INFO 2025-08-11 18:12:14,968 views 14636 16260 Usuario josma05 realizó búsqueda global: 'd'
+INFO 2025-08-11 18:15:16,639 views 14636 6996 Usuario josma05 realizó búsqueda global: 'd'
+INFO 2025-08-11 18:15:21,371 views 14636 6996 Usuario josma05 realizó búsqueda personal: 'd'
+INFO 2025-08-11 18:16:56,201 views 14636 6996 Iniciando extracción para usuario josma05, archivo: 1.pdf
+INFO 2025-08-11 18:17:02,192 views 14636 6996 Documento guardado exitosamente - ID: 6, Usuario: josma05, Archivo: 1.pdf, Método: Tesseract OCR, Tiempo: 5.997s
+INFO 2025-08-11 18:17:15,810 views 14636 6996 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 18:17:15,836 views 14636 6996 Usuario josma05 consultó estadísticas
+INFO 2025-08-11 18:17:29,080 views 14636 6996 Usuario josma05 realizó búsqueda personal: 'minist'
+INFO 2025-08-11 18:17:39,919 views 14636 6996 Usuario josma05 accedió al documento ID: 6 (1.pdf)
+INFO 2025-08-11 18:17:59,098 views 14636 6996 Usuario josma05 realizó búsqueda global: 'd'
+INFO 2025-08-11 18:18:11,755 views 14636 6996 Usuario josma05 realizó búsqueda global: 'mauric'
+INFO 2025-08-12 08:11:30,983 views 9388 15568 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 08:11:30,997 views 9388 15568 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 08:11:47,585 views 9388 15568 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 08:11:47,607 views 9388 15568 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 08:12:09,560 views 9388 15568 Usuario josma05 realizó búsqueda personal: 'd'
+INFO 2025-08-12 08:12:18,485 views 9388 15568 Usuario josma05 realizó búsqueda global: 'd'
+INFO 2025-08-12 08:12:26,789 views 9388 15568 Usuario josma05 realizó búsqueda personal: 'd'
+INFO 2025-08-12 08:17:32,350 views 9388 15568 Iniciando extracción para usuario sandra, archivo: ElPrincipito.pdf
+INFO 2025-08-12 08:17:32,467 views 9388 15568 Documento guardado exitosamente - ID: 7, Usuario: sandra, Archivo: ElPrincipito.pdf, Método: PyMuPDF, Tiempo: 0.118s
+INFO 2025-08-12 08:17:45,963 views 9388 15568 Usuario sandra consultó estadísticas
+INFO 2025-08-12 08:17:45,976 views 9388 15568 Usuario sandra consultó estadísticas
+INFO 2025-08-12 08:18:03,584 views 9388 15568 Usuario sandra realizó búsqueda personal: 'prin'
+INFO 2025-08-12 08:18:09,087 views 9388 15568 Usuario sandra accedió al documento ID: 7 (ElPrincipito.pdf)
+INFO 2025-08-12 08:18:22,441 views 9388 15568 Usuario sandra realizó búsqueda global: 'prin'
+INFO 2025-08-12 08:19:08,159 views 9388 15568 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 08:19:08,182 views 9388 15568 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 08:19:12,602 views 9388 15568 Usuario josma05 realizó búsqueda global: 'ley'
+INFO 2025-08-12 08:19:17,722 views 9388 15568 Usuario josma05 accedió al documento ID: 1 (ley 0009 de 1979.pdf)
+INFO 2025-08-12 08:19:50,777 views 9388 15568 Usuario marian consultó estadísticas
+INFO 2025-08-12 08:19:50,800 views 9388 15568 Usuario marian consultó estadísticas
+INFO 2025-08-12 08:19:54,050 views 9388 15568 Usuario marian realizó búsqueda global: 'd'
+INFO 2025-08-12 08:20:09,575 views 9388 15568 Usuario marian accedió al documento ID: 4 (1.pdf)
+INFO 2025-08-12 08:20:21,037 views 9388 15568 Usuario marian accedió al documento ID: 3 (CVF.pdf)
+INFO 2025-08-12 08:22:36,253 views 9388 15568 Usuario marian consultó estadísticas
+INFO 2025-08-12 08:22:36,265 views 9388 15568 Usuario marian consultó estadísticas
+INFO 2025-08-12 08:22:38,907 views 9388 15568 Usuario marian realizó búsqueda global: 's'
+INFO 2025-08-12 08:23:26,166 views 9388 15568 Usuario marian accedió al documento ID: 4 (1.pdf)
+INFO 2025-08-12 08:24:04,872 views 9388 15568 Usuario marian accedió al documento ID: 3 (CVF.pdf)
+INFO 2025-08-12 08:27:19,727 views 10676 18484 Usuario marian accedió al documento ID: 4 (1.pdf)
+INFO 2025-08-12 08:27:19,780 views 10676 12076 Usuario marian accedió al documento ID: 4 (1.pdf)
+INFO 2025-08-12 08:27:19,791 views 10676 18484 Usuario marian accedió al documento ID: 4 (1.pdf)
+INFO 2025-08-12 08:27:24,673 views 10676 18484 Usuario marian accedió al documento ID: 5 (CamScanner 1-08-25 15.37.pdf)
+INFO 2025-08-12 08:28:02,848 views 10676 18484 Usuario marian realizó búsqueda global: 'ley'
+INFO 2025-08-12 08:28:12,083 views 10676 18484 Usuario marian realizó búsqueda global: 'd'
+INFO 2025-08-12 08:29:00,596 views 10676 18484 Usuario marian realizó búsqueda global: 'd'
+INFO 2025-08-12 08:29:07,237 views 10676 18484 Usuario marian consultó estadísticas
+INFO 2025-08-12 08:29:07,258 views 10676 18484 Usuario marian consultó estadísticas
+INFO 2025-08-12 08:29:12,113 views 10676 18484 Usuario marian realizó búsqueda personal: 'prin'
+INFO 2025-08-12 08:29:25,132 views 10676 18484 Usuario marian realizó búsqueda personal: 'princi'
+INFO 2025-08-12 08:29:29,449 views 10676 18484 Usuario marian realizó búsqueda personal: 'princi'
+INFO 2025-08-12 08:29:32,062 views 10676 18484 Usuario marian realizó búsqueda global: 'princi'
+INFO 2025-08-12 08:29:57,494 views 17536 14348 Usuario marian realizó búsqueda global: 'princi'
+INFO 2025-08-12 08:30:01,487 views 17536 14348 Usuario marian realizó búsqueda personal: 'd'
+INFO 2025-08-12 08:30:09,685 views 17536 14348 Usuario marian realizó búsqueda global: 'd'
+INFO 2025-08-12 08:32:08,268 views 15148 8628 Usuario marian accedió al documento ID: 4 (1.pdf)
+INFO 2025-08-12 08:38:55,338 views 11836 23012 Usuario marian realizó búsqueda personal: 'd'
+INFO 2025-08-12 08:38:57,615 views 11836 23012 Usuario marian accedió al documento ID: 4 (1.pdf)
+INFO 2025-08-12 08:39:01,838 views 8936 13896 Usuario marian accedió al documento ID: 3 (CVF.pdf)
+INFO 2025-08-12 08:39:01,860 views 8936 13896 Usuario marian accedió al documento ID: 3 (CVF.pdf)
+INFO 2025-08-12 08:39:04,022 views 8936 13896 Usuario marian accedió al documento ID: 3 (CVF.pdf)
+INFO 2025-08-12 08:39:39,297 views 23068 15328 Usuario marian realizó búsqueda global: 'd'
+INFO 2025-08-12 08:39:46,051 views 23068 15328 Usuario marian accedió al documento ID: 4 (1.pdf)
+INFO 2025-08-12 08:39:47,472 views 23068 15328 Usuario marian accedió al documento ID: 3 (CVF.pdf)
+INFO 2025-08-12 08:41:06,306 views 18144 5304 Usuario marian accedió globalmente al documento ID: 5 (CamScanner 1-08-25 15.37.pdf) del usuario josma05
+INFO 2025-08-12 08:41:07,207 views 18144 5304 Usuario marian accedió globalmente al documento ID: 5 (CamScanner 1-08-25 15.37.pdf) del usuario josma05
+INFO 2025-08-12 08:41:38,518 views 18144 5304 Usuario marian accedió globalmente al documento ID: 6 (1.pdf) del usuario josma05
+INFO 2025-08-12 08:41:40,930 views 18144 5304 Usuario marian accedió globalmente al documento ID: 7 (ElPrincipito.pdf) del usuario sandra
+INFO 2025-08-12 08:41:51,855 views 18144 5304 Usuario marian accedió globalmente al documento ID: 2 (Django_REST-salida.pdf) del usuario josma05
+INFO 2025-08-12 08:42:08,363 views 18144 5304 Usuario marian accedió globalmente al documento ID: 5 (CamScanner 1-08-25 15.37.pdf) del usuario josma05
+INFO 2025-08-12 08:42:10,229 views 18144 5304 Usuario marian accedió globalmente al documento ID: 2 (Django_REST-salida.pdf) del usuario josma05
+INFO 2025-08-12 08:42:59,162 views 18144 5304 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 08:42:59,182 views 18144 5304 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 08:43:01,275 views 18144 5304 Usuario josma05 realizó búsqueda personal: 'd'
+INFO 2025-08-12 08:43:03,959 views 18144 5304 Usuario josma05 accedió al documento ID: 6 (1.pdf)
+INFO 2025-08-12 08:43:15,475 views 18144 5304 Usuario josma05 accedió al documento ID: 6 (1.pdf)
+INFO 2025-08-12 08:43:24,135 views 18144 5304 Usuario josma05 accedió al documento ID: 5 (CamScanner 1-08-25 15.37.pdf)
+INFO 2025-08-12 08:43:44,605 views 18144 5304 Usuario josma05 realizó búsqueda global: 'd'
+INFO 2025-08-12 08:43:46,218 views 18144 5304 Usuario josma05 accedió globalmente al documento ID: 7 (ElPrincipito.pdf) del usuario sandra
+INFO 2025-08-12 08:45:43,486 views 18168 14852 Usuario josma05 accedió al documento ID: 5 (CamScanner 1-08-25 15.37.pdf)
+INFO 2025-08-12 08:46:18,473 views 18168 14852 Usuario josma05 accedió al documento ID: 5 (CamScanner 1-08-25 15.37.pdf)
+INFO 2025-08-12 08:47:22,355 views 18168 14852 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 08:47:22,368 views 18168 14852 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 08:53:07,348 views 16664 12176 Usuario marian consultó estadísticas
+INFO 2025-08-12 08:53:07,362 views 16664 12176 Usuario marian consultó estadísticas
+INFO 2025-08-12 08:53:10,147 views 16664 12176 Usuario marian realizó búsqueda personal: 'd'
+INFO 2025-08-12 08:53:12,710 views 16664 12176 Usuario marian accedió al documento ID: 4 (1.pdf)
+INFO 2025-08-12 08:53:26,384 views 16664 12176 Usuario marian accedió al documento ID: 3 (CVF.pdf)
+INFO 2025-08-12 08:54:06,084 views 13036 9188 Usuario marian consultó estadísticas
+INFO 2025-08-12 08:54:06,114 views 13036 9188 Usuario marian consultó estadísticas
+INFO 2025-08-12 08:54:08,189 views 13036 9188 Usuario marian realizó búsqueda personal: 'd'
+INFO 2025-08-12 08:54:15,333 views 13036 9188 Usuario marian consultó estadísticas
+INFO 2025-08-12 08:54:15,354 views 13036 9188 Usuario marian consultó estadísticas
+INFO 2025-08-12 08:54:17,691 views 13036 9188 Usuario marian realizó búsqueda personal: 'd'
+INFO 2025-08-12 08:54:26,902 views 13036 9188 Usuario marian realizó búsqueda global: 'd'
+INFO 2025-08-12 08:54:30,238 views 13036 9188 Usuario marian accedió al documento ID: 4 (1.pdf)
+INFO 2025-08-12 08:56:42,108 views 13036 9188 Usuario marian accedió globalmente al documento ID: 5 (CamScanner 1-08-25 15.37.pdf) del usuario josma05
+INFO 2025-08-12 08:58:49,638 views 13036 9188 Usuario marian consultó estadísticas
+INFO 2025-08-12 08:58:49,671 views 13036 9188 Usuario marian consultó estadísticas
+INFO 2025-08-12 08:58:49,704 views 13036 9188 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:02:28,649 views 13036 9188 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:02:28,659 views 13036 9188 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:03:58,050 views 13036 9188 Usuario marian realizó búsqueda personal: 'd'
+INFO 2025-08-12 09:04:34,637 views 13036 9188 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:04:34,652 views 13036 9188 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:04:34,664 views 13036 9188 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:16:24,985 views 13036 6792 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 09:16:24,998 views 13036 6792 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 09:16:28,515 views 13036 6792 Usuario josma05 realizó búsqueda personal: 'd'
+INFO 2025-08-12 09:16:31,440 views 13036 6792 Usuario josma05 accedió al documento ID: 6 (1.pdf)
+INFO 2025-08-12 09:17:02,713 views 13036 6792 Usuario josma05 realizó búsqueda global: 'd'
+INFO 2025-08-12 09:17:06,521 views 13036 6792 Usuario josma05 eliminó documento ID: 6 (1.pdf)
+INFO 2025-08-12 09:17:06,549 views 13036 6792 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 09:17:23,215 views 13036 6792 Usuario josma05 eliminó documento ID: 5 (CamScanner 1-08-25 15.37.pdf)
+INFO 2025-08-12 09:17:23,250 views 13036 6792 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 09:17:26,753 views 13036 6792 Usuario josma05 eliminó documento ID: 2 (Django_REST-salida.pdf)
+INFO 2025-08-12 09:17:26,780 views 13036 6792 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 09:17:29,394 views 13036 6792 Usuario josma05 eliminó documento ID: 1 (ley 0009 de 1979.pdf)
+INFO 2025-08-12 09:17:29,420 views 13036 6792 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 09:17:46,725 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:17:46,756 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:17:51,627 views 13036 6792 Usuario marian realizó búsqueda personal: 'django'
+INFO 2025-08-12 09:17:55,896 views 13036 6792 Usuario marian accedió al documento ID: 3 (CVF.pdf)
+INFO 2025-08-12 09:18:05,222 views 13036 6792 Usuario marian accedió al documento ID: 3 (CVF.pdf)
+INFO 2025-08-12 09:20:12,138 views 13036 6792 Iniciando extracción para usuario marian, archivo: Django_REST-salida.pdf
+INFO 2025-08-12 09:20:12,471 views 13036 6792 Documento guardado exitosamente - ID: 8, Usuario: marian, Archivo: Django_REST-salida.pdf, Método: PyMuPDF, Tiempo: 0.362s
+INFO 2025-08-12 09:21:48,651 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:21:48,662 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:22:03,084 views 13036 6792 Usuario marian realizó búsqueda personal: 'd'
+INFO 2025-08-12 09:22:04,666 views 13036 6792 Usuario marian accedió al documento ID: 8 (Django_REST-salida.pdf)
+INFO 2025-08-12 09:22:15,050 views 13036 6792 Usuario marian accedió al documento ID: 8 (Django_REST-salida.pdf)
+INFO 2025-08-12 09:23:08,056 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:23:08,071 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:23:11,311 views 13036 6792 Usuario marian realizó búsqueda personal: 'd'
+INFO 2025-08-12 09:23:14,918 views 13036 6792 Usuario marian accedió al documento ID: 8 (Django_REST-salida.pdf)
+INFO 2025-08-12 09:23:22,128 views 13036 6792 Usuario marian accedió al documento ID: 8 (Django_REST-salida.pdf)
+INFO 2025-08-12 09:24:22,498 views 13036 6792 Usuario marian accedió al documento ID: 8 (Django_REST-salida.pdf)
+INFO 2025-08-12 09:24:34,437 views 13036 6792 Usuario marian accedió al documento ID: 8 (Django_REST-salida.pdf)
+INFO 2025-08-12 09:24:44,744 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:24:44,766 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:24:49,060 views 13036 6792 Iniciando extracción para usuario marian, archivo: Django_REST-salida.pdf
+INFO 2025-08-12 09:24:49,374 views 13036 6792 Documento guardado exitosamente - ID: 9, Usuario: marian, Archivo: Django_REST-salida.pdf, Método: PyMuPDF, Tiempo: 0.329s
+INFO 2025-08-12 09:25:00,035 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:25:00,047 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:25:03,050 views 13036 6792 Usuario marian realizó búsqueda personal: 'django'
+INFO 2025-08-12 09:25:08,449 views 13036 6792 Usuario marian eliminó documento ID: 8 (Django_REST-salida.pdf)
+INFO 2025-08-12 09:25:08,476 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:25:09,671 views 13036 6792 Usuario marian accedió al documento ID: 9 (Django_REST-salida.pdf)
+INFO 2025-08-12 09:27:10,716 views 13036 6792 Usuario marian accedió al documento ID: 9 (Django_REST-salida.pdf)
+INFO 2025-08-12 09:27:19,298 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:28:33,089 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:28:46,589 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:28:56,086 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:29:07,752 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:29:09,819 views 13036 6792 Usuario marian accedió al documento ID: 9 (Django_REST-salida.pdf)
+INFO 2025-08-12 09:29:58,645 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:30:07,764 views 13036 6792 Usuario marian accedió al documento ID: 9 (Django_REST-salida.pdf)
+INFO 2025-08-12 09:30:12,307 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:30:34,655 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:30:50,652 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:31:04,646 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:31:05,635 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:31:09,865 views 13036 6792 Usuario marian realizó búsqueda personal: 'd'
+INFO 2025-08-12 09:31:11,227 views 13036 6792 Usuario marian accedió al documento ID: 9 (Django_REST-salida.pdf)
+INFO 2025-08-12 09:32:44,464 views 13036 6792 Usuario marian accedió al documento ID: 9 (Django_REST-salida.pdf)
+INFO 2025-08-12 09:34:11,263 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:34:11,292 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:34:11,313 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:34:20,234 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:34:32,920 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:34:49,045 views 13036 6792 Usuario marian realizó búsqueda personal: 'd'
+INFO 2025-08-12 09:34:53,052 views 13036 6792 Usuario marian accedió al documento ID: 9 (Django_REST-salida.pdf)
+INFO 2025-08-12 09:35:43,961 views 13036 6792 Usuario marian accedió al documento ID: 9 (Django_REST-salida.pdf)
+INFO 2025-08-12 09:35:47,047 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:36:03,436 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:36:11,760 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:36:24,326 views 13036 6792 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:37:46,548 views 13036 6792 Usuario marian accedió al documento ID: 9 (Django_REST-salida.pdf)
+INFO 2025-08-12 09:38:01,767 views 13036 6792 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 09:38:01,780 views 13036 6792 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 09:38:05,431 views 13036 6792 Usuario josma05 realizó búsqueda personal: 'd'
+INFO 2025-08-12 09:38:11,582 views 13036 6792 Usuario josma05 realizó búsqueda global: 'd'
+INFO 2025-08-12 09:38:13,289 views 13036 6792 Usuario josma05 accedió globalmente al documento ID: 9 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 09:41:04,163 views 13036 22108 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 09:41:20,937 views 13036 22108 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 09:41:23,385 views 13036 22108 Usuario josma05 accedió globalmente al documento ID: 4 (1.pdf) del usuario marian
+INFO 2025-08-12 09:41:35,032 views 13036 22108 Usuario josma05 accedió globalmente al documento ID: 4 (1.pdf) del usuario marian
+INFO 2025-08-12 09:41:45,687 views 13036 22108 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 09:41:54,970 views 13036 22108 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 09:41:54,986 views 13036 22108 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 09:41:58,472 views 13036 22108 Usuario josma05 realizó búsqueda personal: 'd'
+INFO 2025-08-12 09:42:01,440 views 13036 22108 Usuario josma05 realizó búsqueda global: 'd'
+INFO 2025-08-12 09:42:04,291 views 13036 22108 Usuario josma05 accedió globalmente al documento ID: 4 (1.pdf) del usuario marian
+INFO 2025-08-12 09:43:25,677 views 13036 22108 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 09:43:35,544 views 13036 22108 Usuario josma05 accedió globalmente al documento ID: 7 (ElPrincipito.pdf) del usuario sandra
+INFO 2025-08-12 09:43:43,441 views 13036 22108 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 09:43:52,351 views 13036 22108 Usuario josma05 accedió globalmente al documento ID: 4 (1.pdf) del usuario marian
+INFO 2025-08-12 09:44:05,684 views 13036 22108 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 09:44:29,988 views 13036 22108 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 09:44:30,001 views 13036 22108 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 09:44:31,863 views 13036 22108 Usuario josma05 realizó búsqueda personal: 's'
+INFO 2025-08-12 09:44:34,581 views 13036 22108 Usuario josma05 realizó búsqueda personal: 'd'
+INFO 2025-08-12 09:44:36,733 views 13036 22108 Usuario josma05 realizó búsqueda global: 'd'
+INFO 2025-08-12 09:44:38,343 views 13036 22108 Usuario josma05 accedió globalmente al documento ID: 7 (ElPrincipito.pdf) del usuario sandra
+INFO 2025-08-12 09:45:02,117 views 13036 22108 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 09:45:02,131 views 13036 22108 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 09:45:05,195 views 13036 22108 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 09:45:05,216 views 13036 22108 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 09:45:08,225 views 13036 22108 Usuario josma05 realizó búsqueda global: 'd'
+INFO 2025-08-12 09:45:09,333 views 13036 22108 Usuario josma05 accedió globalmente al documento ID: 7 (ElPrincipito.pdf) del usuario sandra
+INFO 2025-08-12 09:45:23,033 views 13036 22108 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 09:48:40,127 views 13036 22108 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 09:48:50,614 views 13036 22108 Usuario josma05 accedió globalmente al documento ID: 9 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 09:48:59,075 views 13036 22108 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 09:49:44,500 views 13036 22108 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 09:50:51,369 views 13036 22108 Usuario josma05 accedió globalmente al documento ID: 4 (1.pdf) del usuario marian
+INFO 2025-08-12 09:51:40,126 views 13036 22108 Usuario josma05 realizó búsqueda global: 'el pr'
+INFO 2025-08-12 09:51:41,644 views 13036 22108 Usuario josma05 accedió globalmente al documento ID: 7 (ElPrincipito.pdf) del usuario sandra
+INFO 2025-08-12 09:52:32,930 views 13036 22108 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 09:52:59,263 views 13036 22108 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 09:53:01,165 views 13036 22108 Usuario josma05 realizó búsqueda personal: 'el pr'
+INFO 2025-08-12 09:53:26,337 views 13036 22108 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:53:26,350 views 13036 22108 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:53:29,814 views 13036 22108 Usuario marian realizó búsqueda personal: 'd'
+INFO 2025-08-12 09:53:32,356 views 13036 22108 Usuario marian accedió al documento ID: 9 (Django_REST-salida.pdf)
+INFO 2025-08-12 09:53:36,464 views 13036 22108 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:53:37,963 views 13036 22108 Usuario marian eliminó documento ID: 9 (Django_REST-salida.pdf)
+INFO 2025-08-12 09:53:37,988 views 13036 22108 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:53:39,373 views 13036 22108 Usuario marian eliminó documento ID: 4 (1.pdf)
+INFO 2025-08-12 09:53:39,398 views 13036 22108 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:53:41,246 views 13036 22108 Usuario marian eliminó documento ID: 3 (CVF.pdf)
+INFO 2025-08-12 09:53:41,271 views 13036 22108 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:53:44,424 views 13036 22108 Usuario marian realizó búsqueda global: 'd'
+INFO 2025-08-12 09:53:47,057 views 13036 22108 Usuario marian accedió globalmente al documento ID: 7 (ElPrincipito.pdf) del usuario sandra
+INFO 2025-08-12 09:54:02,503 views 13036 22108 Iniciando extracción para usuario marian, archivo: Django_REST-salida.pdf
+INFO 2025-08-12 09:54:02,693 views 13036 22108 Documento guardado exitosamente - ID: 10, Usuario: marian, Archivo: Django_REST-salida.pdf, Método: PyMuPDF, Tiempo: 0.213s
+INFO 2025-08-12 09:54:17,785 views 13036 22108 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:54:17,799 views 13036 22108 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:54:22,137 views 13036 22108 Usuario marian realizó búsqueda personal: 'd'
+INFO 2025-08-12 09:54:23,516 views 13036 22108 Usuario marian accedió al documento ID: 10 (Django_REST-salida.pdf)
+INFO 2025-08-12 09:54:28,303 views 13036 22108 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:54:28,316 views 13036 22108 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:54:30,084 views 13036 22108 Usuario marian realizó búsqueda personal: 'd'
+INFO 2025-08-12 09:54:33,877 views 13036 22108 Usuario marian accedió al documento ID: 10 (Django_REST-salida.pdf)
+INFO 2025-08-12 09:58:39,482 views 13036 22108 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:58:47,756 views 13036 22108 Usuario marian accedió al documento ID: 10 (Django_REST-salida.pdf)
+INFO 2025-08-12 09:58:49,729 views 13036 22108 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:59:00,713 views 13036 22108 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:59:10,489 views 13036 22108 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:59:20,565 views 13036 22108 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:59:31,212 views 13036 22108 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:59:42,302 views 13036 22108 Usuario marian consultó estadísticas
+INFO 2025-08-12 09:59:59,455 views 13036 22108 Usuario marian consultó estadísticas
+INFO 2025-08-12 10:00:06,956 views 13036 22108 Usuario marian consultó estadísticas
+INFO 2025-08-12 10:00:06,980 views 13036 22108 Usuario marian consultó estadísticas
+INFO 2025-08-12 10:00:08,837 views 13036 22108 Usuario marian realizó búsqueda personal: 'd'
+INFO 2025-08-12 10:00:10,399 views 13036 22108 Usuario marian accedió al documento ID: 10 (Django_REST-salida.pdf)
+INFO 2025-08-12 10:00:27,106 views 13036 22108 Usuario marian accedió al documento ID: 10 (Django_REST-salida.pdf)
+INFO 2025-08-12 10:03:39,974 views 13036 22108 Usuario marian consultó estadísticas
+INFO 2025-08-12 10:03:49,647 views 13036 22108 Usuario marian consultó estadísticas
+INFO 2025-08-12 10:03:59,643 views 13036 22108 Usuario marian consultó estadísticas
+INFO 2025-08-12 10:04:14,734 views 13036 22108 Usuario marian consultó estadísticas
+INFO 2025-08-12 10:04:28,852 views 13036 22108 Usuario marian accedió al documento ID: 10 (Django_REST-salida.pdf)
+INFO 2025-08-12 10:07:43,645 views 13036 22108 Usuario marian consultó estadísticas
+INFO 2025-08-12 10:07:53,648 views 13036 22108 Usuario marian consultó estadísticas
+INFO 2025-08-12 10:08:00,064 views 13036 22108 Usuario marian consultó estadísticas
+INFO 2025-08-12 10:08:11,895 views 13036 22108 Usuario marian consultó estadísticas
+INFO 2025-08-12 10:08:21,828 views 13036 22108 Usuario marian consultó estadísticas
+INFO 2025-08-12 10:09:49,422 views 13036 22108 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:09:49,442 views 13036 22108 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:09:54,029 views 13036 22108 Usuario josma05 realizó búsqueda personal: 'd'
+INFO 2025-08-12 10:09:56,179 views 13036 22108 Usuario josma05 realizó búsqueda global: 'd'
+INFO 2025-08-12 10:09:57,573 views 13036 22108 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:10:52,796 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:11:00,512 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:11:12,104 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:11:21,443 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:12:20,861 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:12:21,726 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:12:27,852 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:12:38,793 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:12:46,348 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:12:54,790 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:13:31,965 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:13:41,546 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:13:46,522 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:13:49,480 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:13:54,285 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:15:32,625 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:15:42,650 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:15:50,727 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:15:59,390 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:16:31,962 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:16:44,654 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:16:55,631 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:17:07,172 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:17:07,190 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:17:10,929 views 13036 2528 Usuario josma05 realizó búsqueda global: 'd'
+INFO 2025-08-12 10:17:13,298 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:18:05,637 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:18:13,515 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:18:20,916 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:18:28,070 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:18:38,758 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:18:45,728 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:19:25,642 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:21:27,030 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:21:32,646 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:21:41,641 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:21:49,250 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:21:56,384 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:22:06,869 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:22:14,653 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:22:51,822 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:26:11,682 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:26:26,434 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:26:44,387 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:26:46,267 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:26:49,217 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:26:55,743 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:27:43,261 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:28:03,643 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:28:03,663 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:28:08,009 views 13036 2528 Usuario josma05 realizó búsqueda global: 'd'
+INFO 2025-08-12 10:28:09,497 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:28:22,655 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:28:45,434 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:29:01,261 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:29:15,870 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:29:45,298 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:33:01,940 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:34:51,023 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:34:51,043 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:34:54,164 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:35:10,832 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:35:10,852 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:35:18,371 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:35:20,542 views 13036 2528 Usuario josma05 realizó búsqueda global: 'd'
+INFO 2025-08-12 10:35:22,733 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:23,845 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:24,457 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:24,900 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:25,420 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:28,954 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:29,599 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:30,182 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:30,205 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:35:33,927 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 7 (ElPrincipito.pdf) del usuario sandra
+INFO 2025-08-12 10:35:36,131 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:36,972 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:37,495 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:37,984 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:38,262 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:38,485 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:38,697 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:40,403 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:35:40,933 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:41,398 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:41,634 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:41,835 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:42,053 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:42,278 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:42,819 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:43,049 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:43,290 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:45,886 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:46,399 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:47,923 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:35:47,936 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:35:50,362 views 13036 2528 Usuario josma05 realizó búsqueda personal: 'd'
+INFO 2025-08-12 10:35:50,415 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:35:52,937 views 13036 2528 Usuario josma05 realizó búsqueda global: 'd'
+INFO 2025-08-12 10:35:54,150 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:54,810 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:55,092 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:55,324 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:55,565 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:55,755 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:55,939 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:56,124 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:56,315 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:56,482 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:56,650 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:56,834 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:56,992 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:35:57,155 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:36:41,293 views 13036 2528 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:37:05,544 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:37:31,016 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:37:36,996 views 13036 2528 Usuario josma05 realizó búsqueda global: 'd'
+INFO 2025-08-12 10:37:38,133 views 13036 2528 Usuario josma05 accedió globalmente al documento ID: 10 (Django_REST-salida.pdf) del usuario marian
+INFO 2025-08-12 10:54:01,063 views 13036 22848 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:57:42,948 views 13036 2260 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:57:42,974 views 13036 2260 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:57:42,994 views 13036 2260 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:57:54,640 views 13036 2260 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:58:08,644 views 13036 2260 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 10:58:35,637 views 13036 2260 Usuario josma05 consultó estadísticas
+INFO 2025-08-12 11:05:17,896 views 13036 22592 Usuario josma05 realizó búsqueda personal: 'd'
+INFO 2025-08-12 11:05:20,568 views 13036 22592 Usuario josma05 realizó búsqueda global: 'd'
+INFO 2025-08-12 11:07:08,721 views 13036 13876 Iniciando extracción para usuario maruja, archivo: ley 0009 de 1979.pdf
+INFO 2025-08-12 11:07:08,964 views 13036 13876 Documento guardado exitosamente - ID: 11, Usuario: maruja, Archivo: ley 0009 de 1979.pdf, Método: PyMuPDF, Tiempo: 0.221s
+INFO 2025-08-12 11:07:29,670 views 13036 12232 Usuario maruja consultó estadísticas
+INFO 2025-08-12 11:07:29,686 views 13036 12232 Usuario maruja consultó estadísticas
+INFO 2025-08-12 11:07:46,112 views 13036 22684 Usuario maruja realizó búsqueda personal: 'd'
+INFO 2025-08-12 11:08:14,400 views 13036 16592 Usuario maruja accedió al documento ID: 11 (ley 0009 de 1979.pdf)
+INFO 2025-08-12 11:08:50,083 views 13036 15172 Usuario maruja realizó búsqueda global: 'd'
+INFO 2025-08-12 11:09:06,365 views 13036 23448 Usuario maruja accedió globalmente al documento ID: 7 (ElPrincipito.pdf) del usuario sandra
+INFO 2025-08-22 11:50:42,297 views 21976 11396 Iniciando extracción para usuario josma05, archivo: REQUERIMIENTOS.pdf
+INFO 2025-08-22 11:50:42,385 views 21976 11396 Documento guardado exitosamente - ID: 12, Usuario: josma05, Archivo: REQUERIMIENTOS.pdf, Método: PyMuPDF, Tiempo: 0.068s

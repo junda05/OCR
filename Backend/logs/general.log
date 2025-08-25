@@ -1,0 +1,232 @@
+WARNING 2025-08-11 17:17:57,508 log 21264 3448 Bad Request: /api/v1/documentos/extraer-texto
+WARNING 2025-08-11 17:17:57,803 log 21264 3448 Bad Request: /api/v1/documentos/extraer-texto
+WARNING 2025-08-11 17:17:58,095 log 21264 3448 Unauthorized: /api/v1/documentos/extraer-texto
+WARNING 2025-08-11 17:27:21,479 log 14132 14004 Bad Request: /api/v1/documentos/buscar/
+WARNING 2025-08-11 17:27:22,634 log 14132 14004 Not Found: /api/v1/documentos/documentos/3/
+WARNING 2025-08-11 17:27:23,797 log 14132 14004 Not Found: /api/v1/documentos/documentos/3/eliminar/
+WARNING 2025-08-11 17:27:43,303 log 14076 20928 Bad Request: /api/v1/documentos/buscar/
+WARNING 2025-08-11 17:27:44,496 log 14076 20928 Not Found: /api/v1/documentos/documentos/3/
+WARNING 2025-08-11 17:27:45,675 log 14076 20928 Not Found: /api/v1/documentos/documentos/3/eliminar/
+WARNING 2025-08-11 17:27:49,479 log 14076 20928 Bad Request: /api/v1/documentos/extraer-texto/
+WARNING 2025-08-11 17:27:49,774 log 14076 20928 Bad Request: /api/v1/documentos/extraer-texto/
+WARNING 2025-08-11 17:27:50,067 log 14076 20928 Unauthorized: /api/v1/documentos/extraer-texto/
+ERROR 2025-08-11 17:35:32,343 log 19668 9920 Internal Server Error: /api/v1/documentos/extraer-texto
+Traceback (most recent call last):
+  File "C:\Users\Administrador\.virtualenvs\OCR-hb8hlG_7\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrador\.virtualenvs\OCR-hb8hlG_7\Lib\site-packages\django\utils\deprecation.py", line 122, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Administrador\.virtualenvs\OCR-hb8hlG_7\Lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\Administrador\.virtualenvs\OCR-hb8hlG_7\Lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+    ...<9 lines>...
+    )
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:5800/api/v1/documentos/extraer-texto/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+ERROR 2025-08-11 17:35:32,347 basehttp 19668 9920 "POST /api/v1/documentos/extraer-texto HTTP/1.1" 500 79671
+ERROR 2025-08-11 17:35:58,613 log 19668 10788 Internal Server Error: /api/v1/documentos/extraer-texto
+Traceback (most recent call last):
+  File "C:\Users\Administrador\.virtualenvs\OCR-hb8hlG_7\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrador\.virtualenvs\OCR-hb8hlG_7\Lib\site-packages\django\utils\deprecation.py", line 122, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Administrador\.virtualenvs\OCR-hb8hlG_7\Lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\Administrador\.virtualenvs\OCR-hb8hlG_7\Lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+    ...<9 lines>...
+    )
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:5800/api/v1/documentos/extraer-texto/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+ERROR 2025-08-11 17:35:58,615 basehttp 19668 10788 "POST /api/v1/documentos/extraer-texto HTTP/1.1" 500 79671
+ERROR 2025-08-11 17:36:05,389 log 19668 14176 Internal Server Error: /api/v1/documentos/extraer-texto
+Traceback (most recent call last):
+  File "C:\Users\Administrador\.virtualenvs\OCR-hb8hlG_7\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrador\.virtualenvs\OCR-hb8hlG_7\Lib\site-packages\django\utils\deprecation.py", line 122, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Administrador\.virtualenvs\OCR-hb8hlG_7\Lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\Administrador\.virtualenvs\OCR-hb8hlG_7\Lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+    ...<9 lines>...
+    )
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:5800/api/v1/documentos/extraer-texto/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+ERROR 2025-08-11 17:36:05,391 basehttp 19668 14176 "POST /api/v1/documentos/extraer-texto HTTP/1.1" 500 79652
+ERROR 2025-08-11 17:38:00,666 log 19668 22024 Internal Server Error: /api/v1/documentos/extraer-texto
+Traceback (most recent call last):
+  File "C:\Users\Administrador\.virtualenvs\OCR-hb8hlG_7\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrador\.virtualenvs\OCR-hb8hlG_7\Lib\site-packages\django\utils\deprecation.py", line 122, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Administrador\.virtualenvs\OCR-hb8hlG_7\Lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\Administrador\.virtualenvs\OCR-hb8hlG_7\Lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+    ...<9 lines>...
+    )
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:5800/api/v1/documentos/extraer-texto/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+ERROR 2025-08-11 17:38:00,669 basehttp 19668 22024 "POST /api/v1/documentos/extraer-texto HTTP/1.1" 500 79652
+ERROR 2025-08-11 17:44:47,071 log 13432 17024 Internal Server Error: /api/v1/documentos/extraer-texto
+Traceback (most recent call last):
+  File "C:\Users\Administrador\.virtualenvs\OCR-hb8hlG_7\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrador\.virtualenvs\OCR-hb8hlG_7\Lib\site-packages\django\utils\deprecation.py", line 122, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Administrador\.virtualenvs\OCR-hb8hlG_7\Lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\Administrador\.virtualenvs\OCR-hb8hlG_7\Lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+    ...<9 lines>...
+    )
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8001/api/v1/documentos/extraer-texto/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+ERROR 2025-08-11 17:44:47,073 basehttp 13432 17024 "POST /api/v1/documentos/extraer-texto HTTP/1.1" 500 79454
+ERROR 2025-08-11 17:45:46,109 log 12456 12576 Internal Server Error: /api/v1/documentos/extraer-texto
+Traceback (most recent call last):
+  File "C:\Users\Administrador\.virtualenvs\OCR-hb8hlG_7\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrador\.virtualenvs\OCR-hb8hlG_7\Lib\site-packages\django\utils\deprecation.py", line 122, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Administrador\.virtualenvs\OCR-hb8hlG_7\Lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\Administrador\.virtualenvs\OCR-hb8hlG_7\Lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+    ...<9 lines>...
+    )
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8001/api/v1/documentos/extraer-texto/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+ERROR 2025-08-11 17:45:46,112 basehttp 12456 12576 "POST /api/v1/documentos/extraer-texto HTTP/1.1" 500 79457
+WARNING 2025-08-11 17:46:25,065 log 12456 23428 Bad Request: /api/v1/documentos/extraer-texto/
+WARNING 2025-08-11 17:46:25,065 basehttp 12456 23428 "POST /api/v1/documentos/extraer-texto/ HTTP/1.1" 400 119
+WARNING 2025-08-11 17:46:50,104 log 22716 15772 Bad Request: /api/v1/documentos/extraer-texto/
+WARNING 2025-08-11 17:46:50,104 basehttp 22716 15772 "POST /api/v1/documentos/extraer-texto/ HTTP/1.1" 400 119
+WARNING 2025-08-11 17:47:35,314 log 19372 13944 Not Found: /favicon.ico
+WARNING 2025-08-11 17:47:35,315 basehttp 19372 13944 "GET /favicon.ico HTTP/1.1" 404 15775
+WARNING 2025-08-11 17:50:16,880 log 8604 23536 Unauthorized: /api/v1/documentos/estadisticas/
+WARNING 2025-08-11 17:50:16,880 basehttp 8604 23536 "GET /api/v1/documentos/estadisticas/ HTTP/1.1" 401 172
+WARNING 2025-08-11 17:50:16,894 log 8604 23536 Unauthorized: /api/v1/documentos/estadisticas/
+WARNING 2025-08-11 17:50:16,895 basehttp 8604 23536 "GET /api/v1/documentos/estadisticas/ HTTP/1.1" 401 172
+WARNING 2025-08-11 17:56:25,663 log 14636 15036 Unauthorized: /api/v1/auth/login/
+WARNING 2025-08-11 17:56:25,664 basehttp 14636 15036 "POST /api/v1/auth/login/ HTTP/1.1" 401 63
+WARNING 2025-08-11 17:56:35,765 log 14636 15036 Unauthorized: /api/v1/auth/login/
+WARNING 2025-08-11 17:56:35,766 basehttp 14636 15036 "POST /api/v1/auth/login/ HTTP/1.1" 401 63
+WARNING 2025-08-11 17:58:40,236 log 14636 9856 Not Found: /api/v1/documentos/documentos/2/
+WARNING 2025-08-11 17:58:40,238 basehttp 14636 9856 "GET /api/v1/documentos/documentos/2/ HTTP/1.1" 404 59
+WARNING 2025-08-11 17:58:42,730 log 14636 20256 Not Found: /api/v1/documentos/documentos/2/
+WARNING 2025-08-11 17:58:42,732 basehttp 14636 20256 "GET /api/v1/documentos/documentos/2/ HTTP/1.1" 404 59
+WARNING 2025-08-11 17:59:01,615 log 14636 20528 Not Found: /api/v1/documentos/documentos/2/
+WARNING 2025-08-11 17:59:01,616 basehttp 14636 20528 "GET /api/v1/documentos/documentos/2/ HTTP/1.1" 404 59
+WARNING 2025-08-11 18:08:50,296 log 14636 2100 Not Found: /api/v1/documentos/documentos/4/
+WARNING 2025-08-11 18:08:50,296 basehttp 14636 2100 "GET /api/v1/documentos/documentos/4/ HTTP/1.1" 404 59
+WARNING 2025-08-11 18:08:51,995 log 14636 5188 Not Found: /api/v1/documentos/documentos/4/
+WARNING 2025-08-11 18:08:51,996 basehttp 14636 5188 "GET /api/v1/documentos/documentos/4/ HTTP/1.1" 404 59
+WARNING 2025-08-11 18:08:53,042 log 14636 5188 Not Found: /api/v1/documentos/documentos/4/
+WARNING 2025-08-11 18:08:53,044 basehttp 14636 5188 "GET /api/v1/documentos/documentos/4/ HTTP/1.1" 404 59
+WARNING 2025-08-11 18:15:16,604 log 14636 6996 Unauthorized: /api/v1/documentos/buscar/
+WARNING 2025-08-11 18:15:16,605 basehttp 14636 6996 "GET /api/v1/documentos/buscar/?q=d&global=true&page=1&page_size=10 HTTP/1.1" 401 172
+WARNING 2025-08-12 08:11:30,671 log 9388 19716 Unauthorized: /api/v1/documentos/estadisticas/
+WARNING 2025-08-12 08:11:30,672 basehttp 9388 19716 "GET /api/v1/documentos/estadisticas/ HTTP/1.1" 401 172
+WARNING 2025-08-12 08:11:30,685 log 9388 19716 Unauthorized: /api/v1/documentos/estadisticas/
+WARNING 2025-08-12 08:11:30,688 basehttp 9388 19716 "GET /api/v1/documentos/estadisticas/ HTTP/1.1" 401 172
+WARNING 2025-08-12 08:12:43,215 log 9388 4088 Not Found: /favicon.ico
+WARNING 2025-08-12 08:12:43,216 basehttp 9388 4088 "GET /favicon.ico HTTP/1.1" 404 15775
+WARNING 2025-08-12 08:18:28,552 log 9388 15568 Not Found: /api/v1/documentos/documentos/1/
+WARNING 2025-08-12 08:18:28,552 basehttp 9388 15568 "GET /api/v1/documentos/documentos/1/ HTTP/1.1" 404 59
+WARNING 2025-08-12 08:18:30,486 log 9388 15568 Not Found: /api/v1/documentos/documentos/1/
+WARNING 2025-08-12 08:18:30,486 basehttp 9388 15568 "GET /api/v1/documentos/documentos/1/ HTTP/1.1" 404 59
+WARNING 2025-08-12 08:18:51,208 log 9388 15568 Not Found: /api/v1/documentos/documentos/1/
+WARNING 2025-08-12 08:18:51,209 basehttp 9388 15568 "GET /api/v1/documentos/documentos/1/ HTTP/1.1" 404 59
+WARNING 2025-08-12 08:19:59,026 log 9388 15568 Not Found: /api/v1/documentos/documentos/7/
+WARNING 2025-08-12 08:19:59,027 basehttp 9388 15568 "GET /api/v1/documentos/documentos/7/ HTTP/1.1" 404 59
+WARNING 2025-08-12 08:20:05,001 log 9388 15568 Not Found: /api/v1/documentos/documentos/6/
+WARNING 2025-08-12 08:20:05,002 basehttp 9388 15568 "GET /api/v1/documentos/documentos/6/ HTTP/1.1" 404 59
+WARNING 2025-08-12 08:20:24,878 log 9388 15568 Not Found: /api/v1/documentos/documentos/2/
+WARNING 2025-08-12 08:20:24,878 basehttp 9388 15568 "GET /api/v1/documentos/documentos/2/ HTTP/1.1" 404 59
+WARNING 2025-08-12 08:22:41,441 log 9388 15568 Not Found: /api/v1/documentos/documentos/7/
+WARNING 2025-08-12 08:22:41,443 basehttp 9388 15568 "GET /api/v1/documentos/documentos/7/ HTTP/1.1" 404 59
+WARNING 2025-08-12 08:22:41,989 log 9388 15568 Not Found: /api/v1/documentos/documentos/7/
+WARNING 2025-08-12 08:22:41,990 basehttp 9388 15568 "GET /api/v1/documentos/documentos/7/ HTTP/1.1" 404 59
+WARNING 2025-08-12 08:23:12,073 log 9388 15568 Not Found: /api/v1/documentos/documentos/7/
+WARNING 2025-08-12 08:23:12,074 basehttp 9388 15568 "GET /api/v1/documentos/documentos/7/ HTTP/1.1" 404 59
+WARNING 2025-08-12 08:28:05,312 log 10676 18484 Not Found: /api/v1/documentos/1/
+WARNING 2025-08-12 08:28:05,314 basehttp 10676 18484 "GET /api/v1/documentos/1/ HTTP/1.1" 404 18636
+WARNING 2025-08-12 08:28:07,537 log 10676 18484 Not Found: /api/v1/documentos/1/
+WARNING 2025-08-12 08:28:07,538 basehttp 10676 18484 "GET /api/v1/documentos/1/ HTTP/1.1" 404 18636
+WARNING 2025-08-12 08:28:08,488 log 10676 18484 Not Found: /api/v1/documentos/1/
+WARNING 2025-08-12 08:28:08,489 basehttp 10676 18484 "GET /api/v1/documentos/1/ HTTP/1.1" 404 18636
+WARNING 2025-08-12 08:28:15,950 log 10676 18484 Not Found: /api/v1/documentos/7/
+WARNING 2025-08-12 08:28:15,950 basehttp 10676 18484 "GET /api/v1/documentos/7/ HTTP/1.1" 404 18636
+WARNING 2025-08-12 08:28:18,320 log 10676 18484 Not Found: /api/v1/documentos/6/
+WARNING 2025-08-12 08:28:18,321 basehttp 10676 18484 "GET /api/v1/documentos/6/ HTTP/1.1" 404 18636
+WARNING 2025-08-12 08:28:21,285 log 10676 18484 Not Found: /api/v1/documentos/5/
+WARNING 2025-08-12 08:28:21,286 basehttp 10676 18484 "GET /api/v1/documentos/5/ HTTP/1.1" 404 18636
+WARNING 2025-08-12 08:28:26,970 log 10676 18484 Not Found: /api/v1/documentos/4/
+WARNING 2025-08-12 08:28:26,971 basehttp 10676 18484 "GET /api/v1/documentos/4/ HTTP/1.1" 404 18636
+WARNING 2025-08-12 08:28:28,567 log 10676 18484 Not Found: /api/v1/documentos/4/
+WARNING 2025-08-12 08:28:28,567 basehttp 10676 18484 "GET /api/v1/documentos/4/ HTTP/1.1" 404 18636
+WARNING 2025-08-12 08:28:31,188 log 10676 18484 Not Found: /api/v1/documentos/3/
+WARNING 2025-08-12 08:28:31,189 basehttp 10676 18484 "GET /api/v1/documentos/3/ HTTP/1.1" 404 18636
+WARNING 2025-08-12 08:28:55,465 log 10676 18484 Not Found: /api/v1/documentos/3/
+WARNING 2025-08-12 08:28:55,466 basehttp 10676 18484 "GET /api/v1/documentos/3/ HTTP/1.1" 404 18636
+WARNING 2025-08-12 08:28:56,431 log 10676 18484 Not Found: /api/v1/documentos/2/
+WARNING 2025-08-12 08:28:56,432 basehttp 10676 18484 "GET /api/v1/documentos/2/ HTTP/1.1" 404 18636
+WARNING 2025-08-12 08:28:57,933 log 10676 18484 Not Found: /api/v1/documentos/4/
+WARNING 2025-08-12 08:28:57,934 basehttp 10676 18484 "GET /api/v1/documentos/4/ HTTP/1.1" 404 18636
+WARNING 2025-08-12 08:28:58,743 log 10676 18484 Not Found: /api/v1/documentos/5/
+WARNING 2025-08-12 08:28:58,744 basehttp 10676 18484 "GET /api/v1/documentos/5/ HTTP/1.1" 404 18635
+WARNING 2025-08-12 08:29:02,109 log 10676 18484 Not Found: /api/v1/documentos/7/
+WARNING 2025-08-12 08:29:02,110 basehttp 10676 18484 "GET /api/v1/documentos/7/ HTTP/1.1" 404 18636
+WARNING 2025-08-12 08:29:03,498 log 10676 18484 Not Found: /api/v1/documentos/7/
+WARNING 2025-08-12 08:29:03,499 basehttp 10676 18484 "GET /api/v1/documentos/7/ HTTP/1.1" 404 18636
+WARNING 2025-08-12 08:29:33,645 log 10676 18484 Not Found: /api/v1/documentos/7/
+WARNING 2025-08-12 08:29:33,646 basehttp 10676 18484 "GET /api/v1/documentos/7/ HTTP/1.1" 404 18636
+WARNING 2025-08-12 08:29:37,112 log 10676 18484 Not Found: /api/v1/documentos/1/
+WARNING 2025-08-12 08:29:37,113 basehttp 10676 18484 "GET /api/v1/documentos/1/ HTTP/1.1" 404 18636
+WARNING 2025-08-12 08:29:49,499 log 17536 14348 Not Found: /api/v1/documentos/7/
+WARNING 2025-08-12 08:29:49,500 basehttp 17536 14348 "GET /api/v1/documentos/7/ HTTP/1.1" 404 18636
+WARNING 2025-08-12 08:31:35,072 basehttp 3388 13040 "GET /api/v1/documentos/6/ HTTP/1.1" 404 18806
+WARNING 2025-08-12 08:31:40,568 basehttp 3388 13040 "GET /api/v1/documentos/4/ HTTP/1.1" 404 18806
+WARNING 2025-08-12 08:32:03,628 log 15148 8628 Not Found: /api/v1/documentos/documentos/7/
+WARNING 2025-08-12 08:32:03,628 basehttp 15148 8628 "GET /api/v1/documentos/documentos/7/ HTTP/1.1" 404 59
+WARNING 2025-08-12 08:32:03,922 log 15148 8628 Not Found: /api/v1/documentos/documentos/7/
+WARNING 2025-08-12 08:32:03,923 basehttp 15148 8628 "GET /api/v1/documentos/documentos/7/ HTTP/1.1" 404 59
+WARNING 2025-08-12 08:32:04,948 log 15148 8628 Not Found: /api/v1/documentos/documentos/6/
+WARNING 2025-08-12 08:32:04,948 basehttp 15148 8628 "GET /api/v1/documentos/documentos/6/ HTTP/1.1" 404 59
+WARNING 2025-08-12 08:33:00,042 log 15148 8628 Not Found: /api/v1/documentos/documentos/5/
+WARNING 2025-08-12 08:33:00,043 basehttp 15148 8628 "GET /api/v1/documentos/documentos/5/ HTTP/1.1" 404 59
+WARNING 2025-08-12 08:35:09,905 log 11836 23012 Not Found: /api/v1/documentos/documentos/4/
+WARNING 2025-08-12 08:35:09,905 basehttp 11836 23012 "GET /api/v1/documentos/documentos/4/ HTTP/1.1" 404 18647
+WARNING 2025-08-12 08:38:51,793 log 11836 23012 Unauthorized: /api/v1/documentos/7/
+WARNING 2025-08-12 08:38:51,794 basehttp 11836 23012 "GET /api/v1/documentos/7/ HTTP/1.1" 401 172
+WARNING 2025-08-12 08:38:52,107 log 11836 23012 Not Found: /api/v1/documentos/7/
+WARNING 2025-08-12 08:38:52,108 basehttp 11836 23012 "GET /api/v1/documentos/7/ HTTP/1.1" 404 59
+WARNING 2025-08-12 08:39:41,373 log 23068 15328 Not Found: /api/v1/documentos/6/
+WARNING 2025-08-12 08:39:41,373 basehttp 23068 15328 "GET /api/v1/documentos/6/ HTTP/1.1" 404 59
+WARNING 2025-08-12 08:39:42,914 log 23068 15328 Not Found: /api/v1/documentos/7/
+WARNING 2025-08-12 08:39:42,914 basehttp 23068 15328 "GET /api/v1/documentos/7/ HTTP/1.1" 404 59
+WARNING 2025-08-12 08:39:43,864 log 23068 15328 Not Found: /api/v1/documentos/5/
+WARNING 2025-08-12 08:39:43,864 basehttp 23068 15328 "GET /api/v1/documentos/5/ HTTP/1.1" 404 59
+WARNING 2025-08-12 08:39:58,904 log 23068 15328 Not Found: /api/v1/documentos/5/
+WARNING 2025-08-12 08:39:58,906 basehttp 23068 15328 "GET /api/v1/documentos/5/ HTTP/1.1" 404 59
+WARNING 2025-08-12 09:03:58,017 log 13036 9188 Unauthorized: /api/v1/documentos/buscar/
+WARNING 2025-08-12 09:03:58,017 basehttp 13036 9188 "GET /api/v1/documentos/buscar/?q=d&global=false&page=1&page_size=10 HTTP/1.1" 401 172
+WARNING 2025-08-12 09:34:11,204 log 13036 6792 Unauthorized: /api/v1/documentos/estadisticas/
+WARNING 2025-08-12 09:34:11,205 basehttp 13036 6792 "GET /api/v1/documentos/estadisticas/ HTTP/1.1" 401 172
+WARNING 2025-08-12 09:53:01,133 log 13036 22108 Unauthorized: /api/v1/documentos/buscar/
+WARNING 2025-08-12 09:53:01,133 basehttp 13036 22108 "GET /api/v1/documentos/buscar/?q=el+pr&global=false&page=1&page_size=10 HTTP/1.1" 401 172
+WARNING 2025-08-12 10:08:21,777 log 13036 22108 Unauthorized: /api/v1/documentos/estadisticas/
+WARNING 2025-08-12 10:08:21,779 basehttp 13036 22108 "GET /api/v1/documentos/estadisticas/ HTTP/1.1" 401 172
+WARNING 2025-08-12 10:26:11,650 log 13036 2528 Unauthorized: /api/v1/documentos/estadisticas/
+WARNING 2025-08-12 10:26:11,650 basehttp 13036 2528 "GET /api/v1/documentos/estadisticas/ HTTP/1.1" 401 172
+WARNING 2025-08-12 10:27:54,242 log 13036 2528 Unauthorized: /api/v1/auth/login/
+WARNING 2025-08-12 10:27:54,243 basehttp 13036 2528 "POST /api/v1/auth/login/ HTTP/1.1" 401 63
+WARNING 2025-08-12 10:27:54,823 log 13036 2528 Unauthorized: /api/v1/auth/login/
+WARNING 2025-08-12 10:27:54,824 basehttp 13036 2528 "POST /api/v1/auth/login/ HTTP/1.1" 401 63
+WARNING 2025-08-12 10:54:00,997 log 13036 22848 Unauthorized: /api/v1/documentos/estadisticas/
+WARNING 2025-08-12 10:54:00,998 basehttp 13036 22848 "GET /api/v1/documentos/estadisticas/ HTTP/1.1" 401 172
+WARNING 2025-08-22 11:50:21,041 log 21976 21304 Unauthorized: /api/v1/auth/login/
+WARNING 2025-08-22 11:50:21,043 basehttp 21976 21304 "POST /api/v1/auth/login/ HTTP/1.1" 401 63

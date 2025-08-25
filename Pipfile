@@ -1,0 +1,31 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+paddleocr = "*"
+pymupdf = "*"
+easyocr = "*"
+"spire.ocr" = "*"
+pypdf = "*"
+pdf2image = "*"
+django-extensions = "*"
+django = "*"
+djangorestframework = "*"
+django-debug-toolbar = "*"
+djangorestframework-xml = "*"
+djangorestframework-csv = "*"
+djangorestframework-yaml = "*"
+django-filter = "*"
+djoser = "*"
+djangorestframework-simplejwt = "*"
+django-cors-headers = "*"
+pytesseract = "*"
+
+[dev-packages]
+paddlepaddle = "*"
+ipykernel = "*"
+
+[requires]
+python_version = "3.13"

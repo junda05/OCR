@@ -142,20 +142,6 @@ npm start
 ```
 The frontend application will be available at `http://localhost:3000/`
 
-## Configuration
-
-### Environment Variables
-Create a `.env` file in the Backend directory with the following variables:
-
-```env
-DEBUG=True
-SECRET_KEY=your-secret-key-here
-DATABASE_URL=sqlite:///db.sqlite3
-ALLOWED_HOSTS=localhost,127.0.0.1
-
-# OCR Configuration
-POPPLER_PATH=path/to/poppler/bin
-TESSERACT_CMD=path/to/tesseract
 ```
 
 ### Frontend Configuration

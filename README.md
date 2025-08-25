@@ -142,8 +142,6 @@ npm start
 ```
 The frontend application will be available at `http://localhost:3000/`
 
-```
-
 ### Frontend Configuration
 Update `src/config/axios.js` if your backend runs on a different port:
 

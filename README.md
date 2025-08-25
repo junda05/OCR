@@ -146,7 +146,7 @@ The frontend application will be available at `http://localhost:3000/`
 Update `src/config/axios.js` if your backend runs on a different port:
 
 ```javascript
-const API_BASE_URL = 'http://localhost:8000/api/v1/';
+const API_BASE_URL = 'http://localhost:8001/api/v1/';
 ```
 
 ## API Documentation

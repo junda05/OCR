@@ -512,3 +512,23 @@ INFO 2025-08-12 11:08:50,083 views 13036 15172 Usuario maruja realizó búsqueda g
 INFO 2025-08-12 11:09:06,365 views 13036 23448 Usuario maruja accedió globalmente al documento ID: 7 (ElPrincipito.pdf) del usuario sandra
 INFO 2025-08-22 11:50:42,297 views 21976 11396 Iniciando extracción para usuario josma05, archivo: REQUERIMIENTOS.pdf
 INFO 2025-08-22 11:50:42,385 views 21976 11396 Documento guardado exitosamente - ID: 12, Usuario: josma05, Archivo: REQUERIMIENTOS.pdf, Método: PyMuPDF, Tiempo: 0.068s
+INFO 2025-08-25 14:28:16,056 views 20372 1664 Iniciando extracción para usuario josma05, archivo: REQUERIMIENTOS.pdf
+INFO 2025-08-25 14:28:16,158 views 20372 1664 Documento guardado exitosamente - ID: 13, Usuario: josma05, Archivo: REQUERIMIENTOS.pdf, Método: PyMuPDF, Tiempo: 0.098s
+INFO 2025-08-25 14:29:14,744 views 9152 23328 Iniciando extracción para usuario josma05, archivo: REQUERIMIENTOS.pdf
+INFO 2025-08-25 14:29:14,795 views 9152 23328 Documento guardado exitosamente - ID: 14, Usuario: josma05, Archivo: REQUERIMIENTOS.pdf, Método: PyMuPDF, Tiempo: 0.048s
+INFO 2025-08-25 14:30:31,505 views 9152 23328 Iniciando extracción para usuario josma05, archivo: CamScanner 1-08-25 15.37.pdf
+INFO 2025-08-25 14:30:37,989 views 9152 23456 Iniciando extracción para usuario josma05, archivo: 1.pdf
+INFO 2025-08-25 14:30:39,281 views 9152 23328 Documento guardado exitosamente - ID: 15, Usuario: josma05, Archivo: CamScanner 1-08-25 15.37.pdf, Método: Tesseract OCR, Tiempo: 7.777s
+INFO 2025-08-25 14:30:44,173 views 9152 23456 Documento guardado exitosamente - ID: 16, Usuario: josma05, Archivo: 1.pdf, Método: Tesseract OCR, Tiempo: 6.188s
+INFO 2025-08-25 14:30:44,430 views 9152 23456 Iniciando extracción para usuario josma05, archivo: 1.pdf
+INFO 2025-08-25 14:30:50,297 views 9152 23456 Documento guardado exitosamente - ID: 17, Usuario: josma05, Archivo: 1.pdf, Método: Tesseract OCR, Tiempo: 5.886s
+INFO 2025-08-25 14:31:14,521 views 9152 23456 Usuario josma05 consultó estadísticas
+INFO 2025-08-25 14:31:14,536 views 9152 23456 Usuario josma05 consultó estadísticas
+INFO 2025-08-25 14:31:23,576 views 9152 23456 Usuario josma05 realizó búsqueda personal: 'd'
+INFO 2025-08-25 14:32:01,830 views 9152 23456 Usuario josma05 accedió al documento ID: 17 (1.pdf)
+INFO 2025-08-25 14:32:54,809 views 9152 23456 Usuario josma05 realizó búsqueda global: 'requerimientos'
+INFO 2025-08-25 14:32:59,194 views 9152 23456 Usuario josma05 eliminó documento ID: 13 (REQUERIMIENTOS.pdf)
+INFO 2025-08-25 14:32:59,244 views 9152 23456 Usuario josma05 consultó estadísticas
+INFO 2025-08-25 14:33:03,916 views 9152 23456 Usuario josma05 eliminó documento ID: 12 (REQUERIMIENTOS.pdf)
+INFO 2025-08-25 14:33:03,966 views 9152 23456 Usuario josma05 consultó estadísticas
+INFO 2025-08-25 14:33:50,780 views 9152 23456 Usuario josma05 accedió al documento ID: 14 (REQUERIMIENTOS.pdf)

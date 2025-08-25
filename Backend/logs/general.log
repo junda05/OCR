@@ -230,3 +230,9 @@ WARNING 2025-08-12 10:54:00,997 log 13036 22848 Unauthorized: /api/v1/documentos
 WARNING 2025-08-12 10:54:00,998 basehttp 13036 22848 "GET /api/v1/documentos/estadisticas/ HTTP/1.1" 401 172
 WARNING 2025-08-22 11:50:21,041 log 21976 21304 Unauthorized: /api/v1/auth/login/
 WARNING 2025-08-22 11:50:21,043 basehttp 21976 21304 "POST /api/v1/auth/login/ HTTP/1.1" 401 63
+WARNING 2025-08-25 14:28:15,457 log 20372 1664 Unauthorized: /api/v1/documentos/extraer-texto/
+WARNING 2025-08-25 14:28:15,458 basehttp 20372 1664 "POST /api/v1/documentos/extraer-texto/ HTTP/1.1" 401 172
+WARNING 2025-08-25 14:28:59,360 log 9152 23328 Unauthorized: /api/v1/auth/login/
+WARNING 2025-08-25 14:28:59,360 basehttp 9152 23328 "POST /api/v1/auth/login/ HTTP/1.1" 401 63
+WARNING 2025-08-25 14:28:59,712 log 9152 23328 Unauthorized: /api/v1/auth/login/
+WARNING 2025-08-25 14:28:59,712 basehttp 9152 23328 "POST /api/v1/auth/login/ HTTP/1.1" 401 63

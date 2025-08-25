@@ -230,10 +230,6 @@ Application logs are stored in `Backend/logs/`:
 - `general.log` - General application logs
 - `document_processing.log` - OCR processing specific logs
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Support
 
 For support and questions, please open an issue on the [GitHub repository](https://github.com/junda05/OCR/issues).
